@@ -39,7 +39,7 @@ Industrial music
 Instrumental
 Lo-fi music
 Musical improvisation
-Musique concrète
+Musique concrï¿½te
 Noise (music)
 Outsider music
 PC Music
@@ -222,7 +222,7 @@ Acousmatic music
 Electroacoustic improvisation
 Live electronic music
 Live electronics
-Musique concrète
+Musique concrï¿½te
 Soundscape#In music
 Soundscape
 Electronic rock
@@ -270,7 +270,7 @@ Ethnic electronica
 Asian underground
 Afrobeats
 Azonto
-Coupé-décalé
+Coupï¿½-dï¿½calï¿½
 Kuduro
 Mahraganat
 Shangaan electro
@@ -278,13 +278,13 @@ Budots
 Changa tuki
 Dancehall pop
 Funk carioca
-Funk ostentação
+Funk ostentaï¿½ï¿½o
 Melodic funk
-Proibidão
+Proibidï¿½o
 Rasteirinha
 Merenhouse
 Nortec
-Rabòday
+Rabï¿½day
 Rara tech
 Russ music
 Shamstep
@@ -311,7 +311,7 @@ UK hardcore
 Industrial hardcore
 J-core
 Lento violento
-Mákina
+Mï¿½kina
 Speedcore
 Extratone
 Flashcore
@@ -424,7 +424,7 @@ New beat
 Industrial hip hop
 Industrial metal
 Cyber metal
-Neue Deutsche Härte
+Neue Deutsche Hï¿½rte
 Industrial rock
 Martial industrial
 Witch house (genre)
@@ -523,7 +523,7 @@ Progressive folk music
 Protest song
 Psychedelic folk
 Singer-songwriter
-Nueva canción
+Nueva canciï¿½n
 Skiffle
 Sung poetry
 Tarantella
@@ -665,7 +665,7 @@ C-pop
 Cantopop
 Hokkien pop
 Mandopop
-Canción
+Canciï¿½n
 Canzone
 Chalga
 Chamber pop
@@ -686,7 +686,7 @@ Eurobeat
 French pop music
 Italo dance
 Italo disco
-Laïkó
+Laï¿½kï¿½
 Nederpop
 Neomelodic music
 Nordic popular music
@@ -750,7 +750,7 @@ Urban contemporary music
 Vispop
 Wonky pop
 Worldbeat
-Yé-yé
+Yï¿½-yï¿½
 Alternative R&B
 Classic soul
 Contemporary R&B
@@ -878,7 +878,7 @@ Jazz rock
 Korean rock
 Latin rock
 Chicano rock
-Rock en español
+Rock en espaï¿½ol
 Rock music in Mexico
 Mainstream rock
 Mangue bit
@@ -982,7 +982,7 @@ Mathcore
 Melodic metalcore
 Progressive metalcore
 Neoclassical metal
-Neue Deutsche Härte
+Neue Deutsche Hï¿½rte
 New wave of American heavy metal
 New wave of British heavy metal
 New wave of traditional heavy metal
@@ -1096,7 +1096,7 @@ Chalga
 Chaoui music
 Chimurenga music
 Congolese rumba
-Coupé-Décalé
+Coupï¿½-Dï¿½calï¿½
 Fuji music
 Genge
 Gnawa
@@ -1108,7 +1108,7 @@ Igbo highlife
 Igbo rap
 Isicathamiya
 Jit
-Jùjú music
+Jï¿½jï¿½ music
 Kadongo Kamu
 Kizomba
 Kuduro
@@ -1126,7 +1126,7 @@ Mbube (genre)
 Morna (music)
 Ndombolo
 Palm-wine music
-Raï
+Raï¿½
 Rumba
 Sakara music
 Sega music
