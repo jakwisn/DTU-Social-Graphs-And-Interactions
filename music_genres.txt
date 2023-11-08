@@ -1,6 +1,3 @@
-Music
-music genre
-genres
 Andalusian classical music
 Indian classical music
 Korean court music
@@ -20,9 +17,7 @@ Galant music
 Classical period (music)
 Romantic music
 20th-century classical music
-20th
 21st-century classical music
-21st
 Modernism (music)
 Impressionism in music
 Neoclassicism (music)
@@ -39,7 +34,7 @@ Industrial music
 Instrumental
 Lo-fi music
 Musical improvisation
-Musique concrËte
+Musique concr√®te
 Noise (music)
 Outsider music
 PC Music
@@ -209,7 +204,6 @@ Intelligent drum and bass
 Atmospheric drum and bass
 Jazzstep
 Jump-up (drum and bass)
-Jump-up
 Liquid funk
 Neurofunk
 Sambass
@@ -222,7 +216,7 @@ Acousmatic music
 Electroacoustic improvisation
 Live electronic music
 Live electronics
-Musique concrËte
+Musique concr√®te
 Soundscape#In music
 Soundscape
 Electronic rock
@@ -244,7 +238,6 @@ Nu-gaze
 Minimal wave
 Neue Deutsche Welle
 New Romantic#Styles of music
-New romantic
 New wave of new wave
 Sophisti-pop
 Synth-pop
@@ -270,7 +263,7 @@ Ethnic electronica
 Asian underground
 Afrobeats
 Azonto
-CoupÈ-dÈcalÈ
+Coup√©-d√©cal√©
 Kuduro
 Mahraganat
 Shangaan electro
@@ -278,13 +271,13 @@ Budots
 Changa tuki
 Dancehall pop
 Funk carioca
-Funk ostentaÁ„o
+Funk ostenta√ß√£o
 Melodic funk
-Proibid„o
+Proibid√£o
 Rasteirinha
 Merenhouse
 Nortec
-RabÚday
+Rab√≤day
 Rara tech
 Russ music
 Shamstep
@@ -298,7 +291,6 @@ Synth-funk
 Jungle music
 Ragga jungle
 Hardcore (electronic dance music genre)
-Hardcore
 Bouncy techno
 Breakcore
 Digital hardcore
@@ -311,7 +303,7 @@ UK hardcore
 Industrial hardcore
 J-core
 Lento violento
-M·kina
+M√°kina
 Speedcore
 Extratone
 Flashcore
@@ -417,18 +409,16 @@ Deconstructed club
 Electro-industrial
 Dark electro
 Aggrotech
-Electronic body music
 Electronic body music (EBM)
 Futurepop
 New beat
 Industrial hip hop
 Industrial metal
 Cyber metal
-Neue Deutsche H‰rte
+Neue Deutsche H√§rte
 Industrial rock
 Martial industrial
 Witch house (genre)
-Intelligent dance music
 Intelligent dance music (IDM)
 Drill 'n' bass
 Glitch (music)
@@ -476,7 +466,6 @@ Vocal trance
 UK garage
 2-step garage
 Bassline (music genre)
-Bassline
 Breakstep
 Dubstep
 Brostep
@@ -484,7 +473,6 @@ Neurostep
 Post-dubstep
 Reggaestep
 Riddim (EDM)
-Riddim
 Colour bass
 Future garage
 Grime music
@@ -523,7 +511,7 @@ Progressive folk music
 Protest song
 Psychedelic folk
 Singer-songwriter
-Nueva canciÛn
+Nueva canci√≥n
 Skiffle
 Sung poetry
 Tarantella
@@ -538,7 +526,6 @@ British hip hop
 Road rap
 Chopped and screwed
 Chopper (rap)
-Chopper
 Classic hip hop
 Cloud rap
 Comedy hip hop
@@ -626,7 +613,6 @@ Kansas City jazz
 Latin jazz
 Livetronica
 M-Base
-M-base
 Mainstream jazz
 Modal jazz
 Neo-bop jazz
@@ -658,14 +644,13 @@ Baroque pop
 Beach music
 Bedroom pop
 Brill Building (genre)
-Brill building
 Britpop
 Bubblegum pop
 C-pop
 Cantopop
 Hokkien pop
 Mandopop
-CanciÛn
+Canci√≥n
 Canzone
 Chalga
 Chamber pop
@@ -686,7 +671,7 @@ Eurobeat
 French pop music
 Italo dance
 Italo disco
-LaÔkÛ
+La√Øk√≥
 Nederpop
 Neomelodic music
 Nordic popular music
@@ -750,7 +735,7 @@ Urban contemporary music
 Vispop
 Wonky pop
 Worldbeat
-YÈ-yÈ
+Y√©-y√©
 Alternative R&B
 Classic soul
 Contemporary R&B
@@ -878,7 +863,7 @@ Jazz rock
 Korean rock
 Latin rock
 Chicano rock
-Rock en espaÒol
+Rock en espa√±ol
 Rock music in Mexico
 Mainstream rock
 Mangue bit
@@ -982,7 +967,7 @@ Mathcore
 Melodic metalcore
 Progressive metalcore
 Neoclassical metal
-Neue Deutsche H‰rte
+Neue Deutsche H√§rte
 New wave of American heavy metal
 New wave of British heavy metal
 New wave of traditional heavy metal
@@ -1022,7 +1007,6 @@ Cowpunk
 Gypsy punk
 Scottish Gaelic punk
 Garage punk (fusion genre)
-Garage punk
 German punk
 Glam punk
 Gothic punk
@@ -1074,7 +1058,6 @@ Ska punk
 Skate punk
 Street punk
 Surf punk (music genre)
-Surf punk
 Trallpunk
 African heavy metal
 African hip hop
@@ -1096,7 +1079,7 @@ Chalga
 Chaoui music
 Chimurenga music
 Congolese rumba
-CoupÈ-DÈcalÈ
+Coup√©-D√©cal√©
 Fuji music
 Genge
 Gnawa
@@ -1108,7 +1091,7 @@ Igbo highlife
 Igbo rap
 Isicathamiya
 Jit
-J˘j˙ music
+J√πj√∫ music
 Kadongo Kamu
 Kizomba
 Kuduro
@@ -1126,7 +1109,7 @@ Mbube (genre)
 Morna (music)
 Ndombolo
 Palm-wine music
-RaÔ
+Ra√Ø
 Rumba
 Sakara music
 Sega music
@@ -1146,7 +1129,6 @@ Honky-tonk
 Honky-tonk piano
 Novelty piano
 Stomp (jazz)
-Stomp
 Stride (music)
 Stride piano
 Rautalanka
@@ -1182,4 +1164,232 @@ J-pop
 Japanese hip hop
 Japanese jazz
 Japanese rock
-Kay
+Kay≈çkyoku
+K-pop
+Korean folk music
+Korean hip hop
+Korean rock
+Trot (music)
+Asian Underground
+Baul
+Bhangra (music)
+Bhawaiya
+Dohori
+Filmi
+Indian classical music
+Carnatic music
+Hindustani Classical Music
+Hindustani classical
+Indian jazz
+Indian pop
+Indian rock
+Raga rock
+Kuthu
+Lavani
+Morlam
+Raga
+Ragini
+Sufi rock
+Music of Sri Lanka
+Sri Lankan
+Baila
+Sri Lankan hip hop
+Gamelan
+Malaysian hip hop
+Malaysian pop
+Malaysian rock
+Dangdut
+Indo pop
+Sundanese pop
+Keroncong
+Luk thung
+Luk krung
+Thai pop music
+String (Thai pop)
+Thai string pop
+Manila sound
+Original Pilipino Music
+Original Pilipino
+Pinoy pop
+Pinoy rock
+L-pop
+Mor lam
+V-pop
+Arabic music
+Arabic pop music
+Fann at-Tanbura
+Fijiri
+Khaliji (music)
+Liwa (music)
+Sawt (music)
+Baithak Gana
+Bouyon music
+Cadence-lypso
+Calypso music
+Cha-cha-ch√° (music)
+Chutney music
+Chutney soca
+Chutney parang
+Compas
+Dancehall
+Mambo (music)
+Mento
+Merengue music
+M√©ringue
+Mozambique (music)
+Pichakaree
+Punta
+Punta rock
+Rake & Scrape
+Rasin
+Reggae
+Dub music
+Lovers rock
+Ragga
+Reggae fusion
+Ragga jungle
+Reggae rock
+Reggaeton
+Roots reggae
+Rocksteady
+Rhumba
+Rumba
+Salsa music
+Ska
+Ska punk
+Two-tone (music genre)
+Soca music
+Power soca
+Son cubano
+Songo music
+Timba
+Twoubadou
+Zouk (musical movement)
+Zouk
+Ax√© music
+Brazilian rock
+Brega (music)
+Tecnobrega
+Choro
+Forr√≥
+Frevo
+Funk carioca
+Lambada
+Maracatu
+M√∫sica popular brasileira
+Tropicalia
+M√∫sica sertaneja
+Samba
+Pagode
+Samba rock
+Boogaloo
+Bullerengue
+Flamenco
+Cantes de ida y vuelta
+Fandangos
+Sole√°
+Alegr√≠as
+Buler√≠as
+Peteneras
+Tango (flamenco)
+Ton√°
+Martinetes
+Ton√°s
+Grupera
+Hispanic rhythmic
+Latin Christian music
+Latin pop
+Latin ballad
+Latin rock
+Latin alternative
+Rock en Espa√±ol
+Latin jazz
+Afro-Cuban jazz
+Bossa nova
+Mariachi
+Ranchera
+Reggaeton
+Latin trap
+Regional Mexican
+Banda (music)
+Norte√±o (music)
+Tango music
+Tropical music
+Bachata (music)
+Bolero
+Criolla
+Cumbia
+:es:Chicha (m√∫sica)
+Chicha
+Porro
+Guajira (music)
+Mambo (music)
+Merengue music
+M√∫sica popular (Colombia)
+Cuban rumba
+Rumba
+Salsa music
+Salsa rom√°ntica
+Son (music)
+Tejano music
+Timba
+Tropipop
+Urbano music
+Vallenato
+Buddhist music
+Christian music
+Contemporary Christian music
+Contemporary worship music
+Christian Rock
+Easy Listening
+Country Gospel
+Church music
+Gospel music
+Worship
+Hymn
+Jesus Music
+Liturgical music
+Spiritual (music)
+Gregorian chant
+Islamic music
+Modern pagan music
+New-age music
+Shamanic music
+American patriotic music
+Christmas music
+Fado
+Huayno
+Polka
+Son mexicano
+M√∫sica criolla
+Children's music
+Dance music
+Incidental music
+film
+Play (theatre)
+Musical theatre
+musicals
+filmi
+video game music
+music hall
+Show tune
+showtunes
+Ballroom dance
+pasodoble
+cha-cha-cha (music)
+Martial music
+military music
+March (music)
+marches
+national anthem
+War song
+traditional music
+oral tradition
+Sea shanty
+sea shanties
+work song
+nursery rhyme
+Arabesque music
+indigenous music
+world music
+Yodeling
