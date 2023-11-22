@@ -1,3 +1,6 @@
+Music
+music genre
+genres
 Andalusian classical music
 Indian classical music
 Korean court music
@@ -17,7 +20,9 @@ Galant music
 Classical period (music)
 Romantic music
 20th-century classical music
+20th
 21st-century classical music
+21st
 Modernism (music)
 Impressionism in music
 Neoclassicism (music)
@@ -204,6 +209,7 @@ Intelligent drum and bass
 Atmospheric drum and bass
 Jazzstep
 Jump-up (drum and bass)
+Jump-up
 Liquid funk
 Neurofunk
 Sambass
@@ -219,6 +225,10 @@ Live electronics
 Musique concrète
 Soundscape#In music
 Soundscape
+Electronic dance music
+Dance music
+Dance-pop
+Music festival
 Electronic rock
 Dance-rock
 Alternative dance
@@ -238,6 +248,7 @@ Nu-gaze
 Minimal wave
 Neue Deutsche Welle
 New Romantic#Styles of music
+New romantic
 New wave of new wave
 Sophisti-pop
 Synth-pop
@@ -291,6 +302,7 @@ Synth-funk
 Jungle music
 Ragga jungle
 Hardcore (electronic dance music genre)
+Hardcore
 Bouncy techno
 Breakcore
 Digital hardcore
@@ -409,6 +421,7 @@ Deconstructed club
 Electro-industrial
 Dark electro
 Aggrotech
+Electronic body music
 Electronic body music (EBM)
 Futurepop
 New beat
@@ -418,7 +431,10 @@ Cyber metal
 Neue Deutsche Härte
 Industrial rock
 Martial industrial
+Mid-tempo
+Lento violento
 Witch house (genre)
+Intelligent dance music
 Intelligent dance music (IDM)
 Drill 'n' bass
 Glitch (music)
@@ -466,6 +482,7 @@ Vocal trance
 UK garage
 2-step garage
 Bassline (music genre)
+Bassline
 Breakstep
 Dubstep
 Brostep
@@ -473,6 +490,7 @@ Neurostep
 Post-dubstep
 Reggaestep
 Riddim (EDM)
+Riddim
 Colour bass
 Future garage
 Grime music
@@ -526,6 +544,7 @@ British hip hop
 Road rap
 Chopped and screwed
 Chopper (rap)
+Chopper
 Classic hip hop
 Cloud rap
 Comedy hip hop
@@ -613,6 +632,7 @@ Kansas City jazz
 Latin jazz
 Livetronica
 M-Base
+M-base
 Mainstream jazz
 Modal jazz
 Neo-bop jazz
@@ -644,6 +664,7 @@ Baroque pop
 Beach music
 Bedroom pop
 Brill Building (genre)
+Brill building
 Britpop
 Bubblegum pop
 C-pop
@@ -737,7 +758,6 @@ Wonky pop
 Worldbeat
 Yé-yé
 Alternative R&B
-Classic soul
 Contemporary R&B
 Disco
 Freestyle music
@@ -759,6 +779,7 @@ Soul music
 Blue-eyed soul
 Brown-eyed soul
 Cinematic soul
+Classic soul
 Hip hop soul
 Neo soul
 Northern soul
@@ -970,7 +991,6 @@ Neoclassical metal
 Neue Deutsche Härte
 New wave of American heavy metal
 New wave of British heavy metal
-New wave of traditional heavy metal
 Nintendocore
 Pirate metal
 Pop metal
@@ -981,10 +1001,8 @@ Sludge metal
 Speed metal
 Symphonic metal
 Thrash metal
-Bandana thrash
 Crossover thrash
 Groove metal
-Thrashcore
 Afro-punk
 Anarcho punk
 Crust punk
@@ -1007,6 +1025,7 @@ Cowpunk
 Gypsy punk
 Scottish Gaelic punk
 Garage punk (fusion genre)
+Garage punk
 German punk
 Glam punk
 Gothic punk
@@ -1058,6 +1077,7 @@ Ska punk
 Skate punk
 Street punk
 Surf punk (music genre)
+Surf punk
 Trallpunk
 African heavy metal
 African hip hop
@@ -1107,6 +1127,7 @@ Mbalax
 Mbaqanga
 Mbube (genre)
 Morna (music)
+Music of Egypt
 Ndombolo
 Palm-wine music
 Raï
@@ -1121,19 +1142,7 @@ Kwassa kwassa
 Taarab
 Zamrock
 Zouglou
-Ragtime
-Cakewalk
-Classic rag
-Folk ragtime
-Honky-tonk
-Honky-tonk piano
-Novelty piano
-Stomp (jazz)
-Stride (music)
-Stride piano
-Rautalanka
-Balkan brass
-Klezmer
+Nunatak (band)
 Shashmaqam
 Pashto music
 Music of Kazakhstan#Traditional music
@@ -1142,6 +1151,7 @@ Music of Kyrgyzstan#Traditional music
 Kyrgyz folk music
 Music of Mongolia#Traditional music
 Mongolian folk music
+Tuvan throat singing
 Music of Tajikistan#Tajik folk music
 Tajik folk music
 C-pop
@@ -1221,7 +1231,107 @@ Fann at-Tanbura
 Fijiri
 Khaliji (music)
 Liwa (music)
+Music of Israel
+Persian traditional music
 Sawt (music)
+Music of Turkey
+Turkish folk music
+Gypsy music
+Australian folk music
+Indigenous music of Australia
+Music of Hawaii
+Music of New Zealand
+Māori music
+Kapa haka
+Music of Polynesia
+Music of Samoa
+Eurovision Song Contest
+Balkan music
+Balkan brass
+Balkan folk music
+Music of Albania
+Music of Bosnia and Herzegovina
+Music of Bulgaria
+Music of Cyprus
+Music of Greece
+Olympic Hymn
+Music of Kosovo
+Music of Montenegro
+Music of North Macedonia
+Music of Romania
+Romani music
+Gypsy music
+Lithuanian folk music
+Music of Estonia
+Music of Latvia
+Music of Austria
+Viennese waltz
+Yodeling
+Music of Croatia
+Music of the Czech Republic
+Polka
+Music of Germany
+Music of Hungary
+Music of Liechtenstein
+Music of Poland
+Polka
+Music of Serbia
+Music of Slovakia
+Music of Slovenia
+Music of Switzerland
+Yodeling
+Nordic folk music
+Music of Denmark
+Danish traditional music
+Music of Finland
+Ålänningens sång
+Rautalanka
+Music of Iceland
+Music of Norway
+Music of Sweden
+Music of the Faroe Islands
+Viking metal
+Klezmer
+Music of Belarus
+Music of Moldova
+Music of Russia
+Music of Buryatia
+Otyken
+Russian folk music
+Music of Ukraine
+Music of Yugoslavia
+Music of Andorra
+Music of Belgium
+Music of france
+Music of Ireland
+Celtic music
+Music of italy
+Music of Luxembourg
+Music of Malta
+Music of Monaco
+Music of the Netherlands
+Music of Portugal
+Music of Spain
+Music of the United Kingdom
+Britpop
+Music of Scotland
+Music of Wales
+Axé music
+Brazilian rock
+Brega (music)
+Tecnobrega
+Choro
+Forró
+Frevo
+Funk carioca
+Lambada
+Maracatu
+Música popular brasileira
+Tropicalia
+Música sertaneja
+Samba
+Pagode
+Samba rock
 Baithak Gana
 Bouyon music
 Cadence-lypso
@@ -1250,6 +1360,7 @@ Reggae fusion
 Ragga jungle
 Reggae rock
 Reggaeton
+Moombahton
 Roots reggae
 Rocksteady
 Rhumba
@@ -1258,6 +1369,7 @@ Salsa music
 Ska
 Ska punk
 Two-tone (music genre)
+Two-tone
 Soca music
 Power soca
 Son cubano
@@ -1266,22 +1378,6 @@ Timba
 Twoubadou
 Zouk (musical movement)
 Zouk
-Axé music
-Brazilian rock
-Brega (music)
-Tecnobrega
-Choro
-Forró
-Frevo
-Funk carioca
-Lambada
-Maracatu
-Música popular brasileira
-Tropicalia
-Música sertaneja
-Samba
-Pagode
-Samba rock
 Boogaloo
 Bullerengue
 Flamenco
@@ -1336,6 +1432,25 @@ Timba
 Tropipop
 Urbano music
 Vallenato
+American rock
+Canadian folk music
+Indigenous music of North America
+Inuit music
+Music of Alaska
+Indigenous music of Canada
+Music of Greenland
+Ragtime
+Cakewalk
+Classic rag
+Folk ragtime
+Honky-tonk
+Honky-tonk piano
+Novelty piano
+Stomp (jazz)
+Stomp
+Stride (music)
+Stride piano
+Swing music
 Buddhist music
 Christian music
 Contemporary Christian music
@@ -1350,6 +1465,7 @@ Hymn
 Jesus Music
 Liturgical music
 Spiritual (music)
+Spirituals
 Gregorian chant
 Islamic music
 Modern pagan music
@@ -1358,15 +1474,24 @@ Shamanic music
 American patriotic music
 Christmas music
 Fado
+Fingerstyle guitar
 Huayno
+Pastorale
 Polka
 Son mexicano
 Música criolla
+Ballroom dance
+pasodoble
+cha-cha-cha (music)
+cha cha cha
 Children's music
 Dance music
+Slow dance
+Drug use in music
 Incidental music
 film
 Play (theatre)
+play
 Musical theatre
 musicals
 filmi
@@ -1374,9 +1499,17 @@ video game music
 music hall
 Show tune
 showtunes
-Ballroom dance
-pasodoble
-cha-cha-cha (music)
+Bedroom production
+Multi-instrumentalist
+A cappella
+Bassist
+Drummer
+Percussion
+Guitarist
+Pianist
+Keyboardist
+One-man band
+Internet meme
 Martial music
 military music
 March (music)
@@ -1392,4 +1525,31 @@ nursery rhyme
 Arabesque music
 indigenous music
 world music
+Virtuoso
 Yodeling
+Genealogy of musical genres
+List of styles of music: A–F
+List of styles of music: G–M
+List of styles of music: N–R
+List of styles of music: S–Z
+List of country genres
+List of electronic music genres
+Styles of house music
+List of industrial music genres
+List of trance genres
+List of hip hop genres
+List of jazz genres
+Reggae genres
+List of rock genres
+Heavy metal genres
+Punk rock subgenres
+List of hardcore punk subgenres
+List of microgenres
+List of music styles that incorporate the accordion
+Styles of pop music
+Simon Frith
+Frith, Simon
+Category:Popular music
+*
+Category:Lists of music genres
+*
