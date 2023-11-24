@@ -39,7 +39,7 @@ Industrial music
 Instrumental
 Lo-fi music
 Musical improvisation
-Musique concr�te
+Musique concrète
 Noise (music)
 Outsider music
 PC Music
@@ -222,9 +222,13 @@ Acousmatic music
 Electroacoustic improvisation
 Live electronic music
 Live electronics
-Musique concr�te
+Musique concrète
 Soundscape#In music
 Soundscape
+Electronic dance music
+Dance music
+Dance-pop
+Music festival
 Electronic rock
 Dance-rock
 Alternative dance
@@ -270,7 +274,7 @@ Ethnic electronica
 Asian underground
 Afrobeats
 Azonto
-Coup�-d�cal�
+Coupé-décalé
 Kuduro
 Mahraganat
 Shangaan electro
@@ -278,13 +282,13 @@ Budots
 Changa tuki
 Dancehall pop
 Funk carioca
-Funk ostenta��o
+Funk ostentação
 Melodic funk
-Proibid�o
+Proibidão
 Rasteirinha
 Merenhouse
 Nortec
-Rab�day
+Rabòday
 Rara tech
 Russ music
 Shamstep
@@ -311,7 +315,7 @@ UK hardcore
 Industrial hardcore
 J-core
 Lento violento
-M�kina
+Mákina
 Speedcore
 Extratone
 Flashcore
@@ -424,9 +428,11 @@ New beat
 Industrial hip hop
 Industrial metal
 Cyber metal
-Neue Deutsche H�rte
+Neue Deutsche Härte
 Industrial rock
 Martial industrial
+Mid-tempo
+Lento violento
 Witch house (genre)
 Intelligent dance music
 Intelligent dance music (IDM)
@@ -523,7 +529,7 @@ Progressive folk music
 Protest song
 Psychedelic folk
 Singer-songwriter
-Nueva canci�n
+Nueva canción
 Skiffle
 Sung poetry
 Tarantella
@@ -665,7 +671,7 @@ C-pop
 Cantopop
 Hokkien pop
 Mandopop
-Canci�n
+Canción
 Canzone
 Chalga
 Chamber pop
@@ -686,7 +692,7 @@ Eurobeat
 French pop music
 Italo dance
 Italo disco
-La�k�
+Laïkó
 Nederpop
 Neomelodic music
 Nordic popular music
@@ -750,9 +756,8 @@ Urban contemporary music
 Vispop
 Wonky pop
 Worldbeat
-Y�-y�
+Yé-yé
 Alternative R&B
-Classic soul
 Contemporary R&B
 Disco
 Freestyle music
@@ -774,6 +779,7 @@ Soul music
 Blue-eyed soul
 Brown-eyed soul
 Cinematic soul
+Classic soul
 Hip hop soul
 Neo soul
 Northern soul
@@ -878,7 +884,7 @@ Jazz rock
 Korean rock
 Latin rock
 Chicano rock
-Rock en espa�ol
+Rock en español
 Rock music in Mexico
 Mainstream rock
 Mangue bit
@@ -982,10 +988,9 @@ Mathcore
 Melodic metalcore
 Progressive metalcore
 Neoclassical metal
-Neue Deutsche H�rte
+Neue Deutsche Härte
 New wave of American heavy metal
 New wave of British heavy metal
-New wave of traditional heavy metal
 Nintendocore
 Pirate metal
 Pop metal
@@ -996,10 +1001,8 @@ Sludge metal
 Speed metal
 Symphonic metal
 Thrash metal
-Bandana thrash
 Crossover thrash
 Groove metal
-Thrashcore
 Afro-punk
 Anarcho punk
 Crust punk
@@ -1096,7 +1099,7 @@ Chalga
 Chaoui music
 Chimurenga music
 Congolese rumba
-Coup�-D�cal�
+Coupé-Décalé
 Fuji music
 Genge
 Gnawa
@@ -1108,7 +1111,7 @@ Igbo highlife
 Igbo rap
 Isicathamiya
 Jit
-J�j� music
+Jùjú music
 Kadongo Kamu
 Kizomba
 Kuduro
@@ -1124,9 +1127,10 @@ Mbalax
 Mbaqanga
 Mbube (genre)
 Morna (music)
+Music of Egypt
 Ndombolo
 Palm-wine music
-Ra�
+Raï
 Rumba
 Sakara music
 Sega music
@@ -1138,20 +1142,7 @@ Kwassa kwassa
 Taarab
 Zamrock
 Zouglou
-Ragtime
-Cakewalk
-Classic rag
-Folk ragtime
-Honky-tonk
-Honky-tonk piano
-Novelty piano
-Stomp (jazz)
-Stomp
-Stride (music)
-Stride piano
-Rautalanka
-Balkan brass
-Klezmer
+Nunatak (band)
 Shashmaqam
 Pashto music
 Music of Kazakhstan#Traditional music
@@ -1160,6 +1151,7 @@ Music of Kyrgyzstan#Traditional music
 Kyrgyz folk music
 Music of Mongolia#Traditional music
 Mongolian folk music
+Tuvan throat singing
 Music of Tajikistan#Tajik folk music
 Tajik folk music
 C-pop
@@ -1182,4 +1174,382 @@ J-pop
 Japanese hip hop
 Japanese jazz
 Japanese rock
-Kay
+Kayōkyoku
+K-pop
+Korean folk music
+Korean hip hop
+Korean rock
+Trot (music)
+Asian Underground
+Baul
+Bhangra (music)
+Bhawaiya
+Dohori
+Filmi
+Indian classical music
+Carnatic music
+Hindustani Classical Music
+Hindustani classical
+Indian jazz
+Indian pop
+Indian rock
+Raga rock
+Kuthu
+Lavani
+Morlam
+Raga
+Ragini
+Sufi rock
+Music of Sri Lanka
+Sri Lankan
+Baila
+Sri Lankan hip hop
+Gamelan
+Malaysian hip hop
+Malaysian pop
+Malaysian rock
+Dangdut
+Indo pop
+Sundanese pop
+Keroncong
+Luk thung
+Luk krung
+Thai pop music
+String (Thai pop)
+Thai string pop
+Manila sound
+Original Pilipino Music
+Original Pilipino
+Pinoy pop
+Pinoy rock
+L-pop
+Mor lam
+V-pop
+Arabic music
+Arabic pop music
+Fann at-Tanbura
+Fijiri
+Khaliji (music)
+Liwa (music)
+Music of Israel
+Persian traditional music
+Sawt (music)
+Music of Turkey
+Turkish folk music
+Gypsy music
+Australian folk music
+Indigenous music of Australia
+Music of Hawaii
+Music of New Zealand
+Māori music
+Kapa haka
+Music of Polynesia
+Music of Samoa
+Eurovision Song Contest
+Balkan music
+Balkan brass
+Balkan folk music
+Music of Albania
+Music of Bosnia and Herzegovina
+Music of Bulgaria
+Music of Cyprus
+Music of Greece
+Olympic Hymn
+Music of Kosovo
+Music of Montenegro
+Music of North Macedonia
+Music of Romania
+Romani music
+Gypsy music
+Lithuanian folk music
+Music of Estonia
+Music of Latvia
+Music of Austria
+Viennese waltz
+Yodeling
+Music of Croatia
+Music of the Czech Republic
+Polka
+Music of Germany
+Music of Hungary
+Music of Liechtenstein
+Music of Poland
+Polka
+Music of Serbia
+Music of Slovakia
+Music of Slovenia
+Music of Switzerland
+Yodeling
+Nordic folk music
+Music of Denmark
+Danish traditional music
+Music of Finland
+Ålänningens sång
+Rautalanka
+Music of Iceland
+Music of Norway
+Music of Sweden
+Music of the Faroe Islands
+Viking metal
+Klezmer
+Music of Belarus
+Music of Moldova
+Music of Russia
+Music of Buryatia
+Otyken
+Russian folk music
+Music of Ukraine
+Music of Yugoslavia
+Music of Andorra
+Music of Belgium
+Music of france
+Music of Ireland
+Celtic music
+Music of italy
+Music of Luxembourg
+Music of Malta
+Music of Monaco
+Music of the Netherlands
+Music of Portugal
+Music of Spain
+Music of the United Kingdom
+Britpop
+Music of Scotland
+Music of Wales
+Axé music
+Brazilian rock
+Brega (music)
+Tecnobrega
+Choro
+Forró
+Frevo
+Funk carioca
+Lambada
+Maracatu
+Música popular brasileira
+Tropicalia
+Música sertaneja
+Samba
+Pagode
+Samba rock
+Baithak Gana
+Bouyon music
+Cadence-lypso
+Calypso music
+Cha-cha-chá (music)
+Chutney music
+Chutney soca
+Chutney parang
+Compas
+Dancehall
+Mambo (music)
+Mento
+Merengue music
+Méringue
+Mozambique (music)
+Pichakaree
+Punta
+Punta rock
+Rake & Scrape
+Rasin
+Reggae
+Dub music
+Lovers rock
+Ragga
+Reggae fusion
+Ragga jungle
+Reggae rock
+Reggaeton
+Moombahton
+Roots reggae
+Rocksteady
+Rhumba
+Rumba
+Salsa music
+Ska
+Ska punk
+Two-tone (music genre)
+Two-tone
+Soca music
+Power soca
+Son cubano
+Songo music
+Timba
+Twoubadou
+Zouk (musical movement)
+Zouk
+Boogaloo
+Bullerengue
+Flamenco
+Cantes de ida y vuelta
+Fandangos
+Soleá
+Alegrías
+Bulerías
+Peteneras
+Tango (flamenco)
+Toná
+Martinetes
+Tonás
+Grupera
+Hispanic rhythmic
+Latin Christian music
+Latin pop
+Latin ballad
+Latin rock
+Latin alternative
+Rock en Español
+Latin jazz
+Afro-Cuban jazz
+Bossa nova
+Mariachi
+Ranchera
+Reggaeton
+Latin trap
+Regional Mexican
+Banda (music)
+Norteño (music)
+Tango music
+Tropical music
+Bachata (music)
+Bolero
+Criolla
+Cumbia
+:es:Chicha (música)
+Chicha
+Porro
+Guajira (music)
+Mambo (music)
+Merengue music
+Música popular (Colombia)
+Cuban rumba
+Rumba
+Salsa music
+Salsa romántica
+Son (music)
+Tejano music
+Timba
+Tropipop
+Urbano music
+Vallenato
+American rock
+Canadian folk music
+Indigenous music of North America
+Inuit music
+Music of Alaska
+Indigenous music of Canada
+Music of Greenland
+Ragtime
+Cakewalk
+Classic rag
+Folk ragtime
+Honky-tonk
+Honky-tonk piano
+Novelty piano
+Stomp (jazz)
+Stomp
+Stride (music)
+Stride piano
+Swing music
+Buddhist music
+Christian music
+Contemporary Christian music
+Contemporary worship music
+Christian Rock
+Easy Listening
+Country Gospel
+Church music
+Gospel music
+Worship
+Hymn
+Jesus Music
+Liturgical music
+Spiritual (music)
+Spirituals
+Gregorian chant
+Islamic music
+Modern pagan music
+New-age music
+Shamanic music
+American patriotic music
+Christmas music
+Fado
+Fingerstyle guitar
+Huayno
+Pastorale
+Polka
+Son mexicano
+Música criolla
+Ballroom dance
+pasodoble
+cha-cha-cha (music)
+cha cha cha
+Children's music
+Dance music
+Slow dance
+Drug use in music
+Incidental music
+film
+Play (theatre)
+play
+Musical theatre
+musicals
+filmi
+video game music
+music hall
+Show tune
+showtunes
+Bedroom production
+Multi-instrumentalist
+A cappella
+Bassist
+Drummer
+Percussion
+Guitarist
+Pianist
+Keyboardist
+One-man band
+Internet meme
+Martial music
+military music
+March (music)
+marches
+national anthem
+War song
+traditional music
+oral tradition
+Sea shanty
+sea shanties
+work song
+nursery rhyme
+Arabesque music
+indigenous music
+world music
+Virtuoso
+Yodeling
+Genealogy of musical genres
+List of styles of music: A–F
+List of styles of music: G–M
+List of styles of music: N–R
+List of styles of music: S–Z
+List of country genres
+List of electronic music genres
+Styles of house music
+List of industrial music genres
+List of trance genres
+List of hip hop genres
+List of jazz genres
+Reggae genres
+List of rock genres
+Heavy metal genres
+Punk rock subgenres
+List of hardcore punk subgenres
+List of microgenres
+List of music styles that incorporate the accordion
+Styles of pop music
+Simon Frith
+Frith, Simon
+Category:Popular music
+*
+Category:Lists of music genres
+*
