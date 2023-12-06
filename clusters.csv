@@ -1,1317 +1,1002 @@
 node,cluster
-genres,31
-Andalusian classical music,35
-Indian classical music,5
-Korean court music,37
-Persian classical music,37
-Western classical music,28
-Early music,32
-Medieval music,2
-Ars antiqua,36
-Ars nova,36
-Ars subtilior,35
-Bardcore,27
-Neo-Medieval music,29
-Tavernwave,37
-Renaissance music,1
+genres,27
+Andalusian classical music,4
+Indian classical music,17
+Korean court music,6
+Persian classical music,6
+Western classical music,24
+Early music,1
+Medieval music,36
+Ars antiqua,5
+Ars nova,5
+Ars subtilior,4
+Bardcore,23
+Neo-Medieval music,25
+Tavernwave,6
+Renaissance music,35
 Baroque music,21
-Galant music,36
-Classical period (music),3
-Romantic music,24
-20th-century classical music,3
-20th,38
-21st-century classical music,26
-21st,38
-Modernism (music),31
-Impressionism in music,33
-Neoclassicism (music),26
-High modernism,38
-Postmodern music,30
-Experimental music,20
-Contemporary classical music,34
-Minimal music,1
-Crossover music,10
-Danger music,32
-Drone music,26
-Electroacoustic music,28
-Industrial music,11
-Instrumental,29
-Lo-fi music,19
-Musical improvisation,1
-Musique concr√®te,28
-Noise (music),36
-Outsider music,27
-PC Music,27
-Progressive music,23
-Psychedelic music,17
-Underground music,18
-African blues,35
-Blues rock,1
-Blues shouter,37
-British blues,2
-Canadian blues,35
-Chicago blues,26
-Classic female blues,36
+Galant music,5
+Classical period (music),37
+Romantic music,29
+20th-century classical music,37
+20th,7
+21st-century classical music,31
+21st,7
+Modernism (music),27
+Impressionism in music,2
+Neoclassicism (music),31
+High modernism,7
+Postmodern music,26
+Experimental music,13
+Contemporary classical music,3
+Minimal music,35
+Crossover music,34
+Danger music,1
+Drone music,31
+Electroacoustic music,24
+Industrial music,8
+Instrumental,25
+Lo-fi music,20
+Musical improvisation,35
+Musique concrËte,24
+Noise (music),5
+Outsider music,23
+PC Music,23
+Progressive music,28
+Psychedelic music,15
+Underground music,14
+African blues,4
+Blues rock,35
+Blues shouter,6
+British blues,36
+Canadian blues,4
+Chicago blues,31
+Classic female blues,5
 Contemporary R&B,62
-Delta blues,25
-Desert blues,36
-Detroit blues,33
-Electric blues,3
-Gospel blues,36
-Hill country blues,32
-Hokum,28
-Hokum blues,37
-Honky Tonk Blues,35
-Jump blues,32
-Blues#Urban blues,33
-Kansas City blues,37
-Louisiana blues,32
-Memphis blues,29
-New Orleans blues,29
-Piedmont blues,33
-Punk blues,28
-Doo-wop,27
-Soul blues,34
-St. Louis blues (music),36
-Swamp blues,27
-Talking blues,35
-Texas blues,32
-West Coast blues,34
-Country blues,30
-Alternative country,8
-Cowpunk,23
-Americana (music),5
-Australian country music,28
-Bakersfield sound,25
-Bluegrass music,17
-Progressive bluegrass,37
-Reactionary bluegrass,38
-Classic country,3
-Country pop,30
-Country rap,29
-Country rock,4
-Cajun music,4
-Cajun fiddle,33
-Christian country music,29
-Close harmony,37
-Dansband,32
-Gothic country,28
-Honky-tonk,29
-Honky-tonk country,38
-Instrumental country,37
-Nashville sound,23
-Neotraditional country,24
-New Mexico music,8
-Outlaw country,2
-Progressive country,29
-Red dirt (music),33
-Rockabilly,5
-Hellbilly music,37
-Psychobilly,23
-Sertanejo music,28
-Tejano music,20
-Texas country music,29
-Traditional country music,37
-Truck-driving country,35
-Western music (North America),8
-Western (Cowboy),38
-Cowboy pop,32
-Western swing,3
-Zydeco,25
-Adult standards,35
-Background music,28
-Elevator music,32
-muzak,29
-Barococo,37
-Beautiful music,24
-Chill-out music,1
-Downtempo,32
-Furniture music,34
-Light music,27
-Lounge music,1
-Middle of the road (music),25
-New-age music,10
-Ambient dub,33
-Dark ambient,31
-Ambient industrial,38
-Dungeon synth,24
-Illbient,4
-Andean new age music,36
-Andean new-age,37
-Neoclassical new-age music,32
-Space music,1
-Reductionism (music),34
-Lowercase (music),27
-Onkyokei,34
-Bass music,23
-Footwork (genre),19
-Future bass,26
-Kawaii future bass,35
-Jungle terror,37
-UK bass,1
-Wave music,31
-Hardwave,36
-Breakbeat,8
-Acid breaks,35
-Baltimore club,4
-Jersey club,1
-Philly club,36
-Big beat,31
-Breakbeat hardcore,23
-4-beat,28
-Darkcore,28
-Hardcore breaks,38
-Broken beat,28
-Florida breaks,26
-Nu skool breaks,32
-Progressive breaks,37
-Psychedelic breakbeat,37
-Psybient,35
-Psydub,34
-Trip hop,9
-Trip rock,37
-Chopped and screwed,26
-Afro/cosmic music,31
-Electro-disco,36
-Hi-NRG,4
-Eurobeat,1
-Eurodance,12
-Italo dance,31
-Italo disco,20
-Spacesynth,37
-Space disco,28
-Eurodisco,2
-Nu-disco,4
-Post-disco,1
-Boogie (genre),25
-City pop,29
-Drum and bass,14
-Darkstep,33
-Drumfunk,36
-Drumstep,36
-Hardstep,35
-Intelligent drum and bass,36
-Atmospheric drum and bass,38
-Jazzstep,38
-Jump-up (drum and bass),35
-Jump-up,36
-Liquid funk,32
-Neurofunk,28
-Sambass,34
-Techstep,23
-Dub music,17
-Dub poetry,35
-Dubtronica,32
-Acousmatic music,35
-Electroacoustic improvisation,33
-Live electronic music,34
-Live electronics,37
-Soundscape#In music,36
-Soundscape,34
-Dance-pop,9
-Music festival,34
-Electronic rock,10
-Dance-rock,23
-Alternative dance,7
-Madchester,23
-Baggy,27
-New rave,31
-Dance-punk,2
-Krautrock,19
-Cold wave (music),26
-Dark wave,24
-Neoclassical dark wave,30
-Neue Deutsche Todeskunst,31
-Ethereal wave,29
-Nu-gaze,37
-Minimal wave,27
-Neue Deutsche Welle,3
-New Romantic#Styles of music,38
-New romantic,36
-New wave of new wave,28
-Sophisti-pop,29
+Delta blues,30
+Desert blues,5
+Detroit blues,2
+Electric blues,37
+Gospel blues,5
+Hill country blues,1
+Hokum,24
+Hokum blues,6
+Honky Tonk Blues,4
+Jump blues,1
+Blues#Urban blues,2
+Kansas City blues,6
+Louisiana blues,1
+Memphis blues,25
+New Orleans blues,25
+Piedmont blues,2
+Punk blues,24
+Doo-wop,23
+Soul blues,3
+St. Louis blues (music),5
+Swamp blues,23
+Talking blues,4
+Texas blues,1
+West Coast blues,3
+Country blues,26
+Alternative country,32
+Cowpunk,28
+Americana (music),17
+Australian country music,24
+Bakersfield sound,30
+Bluegrass music,15
+Progressive bluegrass,6
+Reactionary bluegrass,7
+Classic country,37
+Country pop,26
+Country rap,25
+Country rock,38
+Cajun music,38
+Cajun fiddle,2
+Christian country music,25
+Close harmony,6
+Dansband,1
+Gothic country,24
+Honky-tonk,25
+Honky-tonk country,7
+Instrumental country,6
+Nashville sound,28
+Neotraditional country,29
+New Mexico music,32
+Outlaw country,36
+Progressive country,25
+Red dirt (music),2
+Rockabilly,17
+Hellbilly music,6
+Psychobilly,28
+Sertanejo music,24
+Tejano music,13
+Texas country music,25
+Traditional country music,6
+Truck-driving country,4
+Western music (North America),32
+Western (Cowboy),7
+Cowboy pop,1
+Western swing,37
+Zydeco,30
+Adult standards,4
+Background music,24
+Elevator music,1
+muzak,25
+Barococo,6
+Beautiful music,29
+Chill-out music,35
+Downtempo,1
+Furniture music,3
+Light music,23
+Lounge music,35
+Middle of the road (music),30
+New-age music,34
+Ambient dub,2
+Dark ambient,27
+Ambient industrial,7
+Dungeon synth,29
+Illbient,38
+Andean new age music,5
+Andean new-age,6
+Neoclassical new-age music,1
+Space music,35
+Reductionism (music),3
+Lowercase (music),23
+Onkyokei,3
+Bass music,28
+Footwork (genre),20
+Future bass,31
+Kawaii future bass,4
+Jungle terror,6
+UK bass,35
+Wave music,27
+Hardwave,5
+Breakbeat,32
+Acid breaks,4
+Baltimore club,38
+Jersey club,35
+Philly club,5
+Big beat,27
+Breakbeat hardcore,28
+4-beat,24
+Darkcore,24
+Hardcore breaks,7
+Broken beat,24
+Florida breaks,31
+Nu skool breaks,1
+Progressive breaks,6
+Psychedelic breakbeat,6
+Psybient,4
+Psydub,3
+Trip hop,33
+Trip rock,6
+Chopped and screwed,31
+Afro/cosmic music,27
+Electro-disco,5
+Hi-NRG,38
+Eurobeat,35
+Eurodance,8
+Italo dance,27
+Italo disco,13
+Spacesynth,6
+Space disco,24
+Eurodisco,36
+Nu-disco,38
+Post-disco,35
+Boogie (genre),30
+City pop,25
+Drum and bass,10
+Darkstep,2
+Drumfunk,5
+Drumstep,5
+Hardstep,4
+Intelligent drum and bass,5
+Atmospheric drum and bass,7
+Jazzstep,7
+Jump-up (drum and bass),4
+Jump-up,5
+Liquid funk,1
+Neurofunk,24
+Sambass,3
+Techstep,28
+Dub music,15
+Dub poetry,4
+Dubtronica,1
+Acousmatic music,4
+Electroacoustic improvisation,2
+Live electronic music,3
+Live electronics,6
+Soundscape#In music,5
+Soundscape,3
+Dance-pop,33
+Music festival,3
+Electronic rock,34
+Dance-rock,28
+Alternative dance,18
+Madchester,28
+Baggy,23
+New rave,27
+Dance-punk,36
+Krautrock,20
+Cold wave (music),31
+Dark wave,29
+Neoclassical dark wave,26
+Neue Deutsche Todeskunst,27
+Ethereal wave,25
+Nu-gaze,6
+Minimal wave,23
+Neue Deutsche Welle,37
+New Romantic#Styles of music,7
+New romantic,5
+New wave of new wave,24
+Sophisti-pop,25
 Synth-pop,21
-Disco polo,25
-Electroclash,23
-Electropop,20
-Hyperpop,7
-Post-rock,8
-Space rock,25
-Synth-metal,35
-Electronicore,8
-Synth-punk,35
-Electronica,23
-Folktronica,29
-Indietronica,32
-Jazztronica,37
-Laptronica,37
-Livetronica,38
-Progressive electronic,37
-Kosmische musik,35
-Ethnic electronica,5
-Asian underground,36
+Disco polo,30
+Electroclash,28
+Electropop,13
+Hyperpop,18
+Post-rock,32
+Space rock,30
+Synth-metal,4
+Electronicore,32
+Synth-punk,4
+Electronica,28
+Folktronica,25
+Indietronica,1
+Jazztronica,6
+Laptronica,6
+Livetronica,7
+Progressive electronic,6
+Kosmische musik,4
+Ethnic electronica,17
+Asian underground,5
 Afrobeats,22
-Azonto,32
-Coup√©-d√©cal√©,32
-Kuduro,29
-Mahraganat,32
-Shangaan electro,34
-Budots,33
-Changa tuki,33
-Dancehall pop,29
-Funk carioca,4
-Funk ostenta√ß√£o,33
-Melodic funk,38
-Proibid√£o,35
-Rasteirinha,33
-Merenhouse,27
-Nortec,34
-Rab√≤day,35
-Rara tech,35
-Russ music,35
-Shamstep,35
-Tribal guarachero,36
-Worldbeat,24
-Manila sound,4
-Funk,14
-Acid jazz,26
-Funktronica,37
-Synth-funk,37
-Jungle music,19
-Ragga jungle,37
-Hardcore (electronic dance music genre),15
-Hardcore,8
-Bouncy techno,25
-Breakcore,26
-Digital hardcore,3
-Frenchcore,29
-Gabber,30
-Early hardcore,32
-Mainstream hardcore,29
-Happy hardcore,24
-UK hardcore,29
-Industrial hardcore,38
-J-core,34
-Lento violento,33
-M√°kina,27
-Speedcore,32
-Extratone,37
-Flashcore,36
-Splittercore,37
-Hardstyle,30
-Dubstyle,36
-Jumpstyle,32
-Hauntology (music),34
-Chillwave,2
-Hypnagogic pop,29
-Synthwave,1
-Darksynth,37
-Sovietwave,29
-Vaporwave,15
-Dreampunk,34
-Future funk,34
-Hardvapour,28
-Mallsoft,32
-Seapunk,29
-Afroswing,26
+Azonto,1
+CoupÈ-dÈcalÈ,1
+Kuduro,25
+Mahraganat,1
+Shangaan electro,3
+Budots,2
+Changa tuki,2
+Dancehall pop,25
+Funk carioca,38
+Funk ostentaÁ„o,2
+Melodic funk,7
+Proibid„o,4
+Rasteirinha,2
+Merenhouse,23
+Nortec,3
+RabÚday,4
+Rara tech,4
+Russ music,4
+Shamstep,4
+Tribal guarachero,5
+Worldbeat,29
+Manila sound,38
+Funk,10
+Acid jazz,31
+Funktronica,6
+Synth-funk,6
+Jungle music,20
+Ragga jungle,6
+Hardcore (electronic dance music genre),12
+Hardcore,32
+Bouncy techno,30
+Breakcore,31
+Digital hardcore,37
+Frenchcore,25
+Gabber,26
+Early hardcore,1
+Mainstream hardcore,25
+Happy hardcore,29
+UK hardcore,25
+Industrial hardcore,7
+J-core,3
+Lento violento,2
+M·kina,23
+Speedcore,1
+Extratone,6
+Flashcore,5
+Splittercore,6
+Hardstyle,26
+Dubstyle,5
+Jumpstyle,1
+Hauntology (music),3
+Chillwave,36
+Hypnagogic pop,25
+Synthwave,35
+Darksynth,6
+Sovietwave,25
+Vaporwave,12
+Dreampunk,3
+Future funk,3
+Hardvapour,24
+Mallsoft,1
+Seapunk,25
+Afroswing,31
 Alternative hip hop,21
-Hipster hop,27
-Cloud rap,4
-Crunk,4
-Crunkcore,31
-Snap music,29
-Electro (music),15
-Latin freestyle,29
-Emo rap,26
-Instrumental hip hop,32
-Lofi hip hop,27
+Hipster hop,23
+Cloud rap,38
+Crunk,38
+Crunkcore,27
+Snap music,25
+Electro (music),12
+Latin freestyle,25
+Emo rap,31
+Instrumental hip hop,1
+Lofi hip hop,23
 Miami bass,22
-Mumble rap,1
-Trap music,14
-Afro trap,37
-Drill music,8
-UK drill,25
-Latin trap,31
-Phonk,26
-Trap music (EDM),29
-Trap (EDM),33
-UK trap,37
-Acid house,5
-Amapiano,27
-Gqom,28
-Kidandali,32
-Kwaito,23
-Ambient house,32
-Balearic beat,10
-Ball culture#Music,33
-Ballroom,36
-Bass house (genre),37
-Blog house,36
-Brazilian bass,35
-Slap house,37
-Chicago hard house,35
-Chicago house,15
-Deep house,26
-Disco house,38
-Diva house,29
-Hardbag,33
-Electro house,5
-Big room house,31
-Complextro,33
-Dutch house,32
-Fidget house,35
-Melbourne bounce,37
-Electro swing,29
-French house,23
-Funky house,31
-Future house,29
-Garage house,25
-Ghetto house,29
-Ghettotech,30
-Juke house,33
-Hip house,31
-Italo house,23
-Jazz house,37
-Latin house,27
-Melodic house,37
-Microhouse,30
-Moombahcore,35
-Moombahton,10
-Moombahsoul,38
-New Jersey sound,27
-Outsider house,28
-Progressive house,2
-Soulful house,36
-Tech house,32
-Tribal house,32
-Tropical house,24
-UK hard house,3
-Hard NRG,28
-Pumping house,36
-Hardbass,29
-Scouse house,33
-Post-industrial music,35
-post-industrial,34
-Deconstructed club,31
-Electro-industrial,30
-Dark electro,35
-Aggrotech,36
-Electronic body music,19
-Electronic body music (EBM),37
-Futurepop,32
-New beat,29
-Industrial hip hop,30
-Industrial metal,2
-Cyber metal,37
-Neue Deutsche H√§rte,24
-Industrial rock,31
-Martial industrial,26
-Mid-tempo,38
-Witch house (genre),24
-Intelligent dance music,20
-Intelligent dance music (IDM),37
-Drill 'n' bass,32
-Glitch (music),23
-Neo soul,31
-Nightcore,30
-Noise music,19
-Harsh noise,36
-Harsh noise wall,35
-Japanoise,3
-Noise pop,29
-Power electronics (music),27
-Death industrial,35
-Power noise,28
-Plunderphonics,32
-Sampledelia,34
+Mumble rap,35
+Trap music,10
+Afro trap,6
+Drill music,32
+UK drill,30
+Latin trap,27
+Phonk,31
+Trap music (EDM),25
+Trap (EDM),2
+UK trap,6
+Acid house,17
+Amapiano,23
+Gqom,24
+Kidandali,1
+Kwaito,28
+Ambient house,1
+Balearic beat,34
+Ball culture#Music,2
+Ballroom,5
+Bass house (genre),6
+Blog house,5
+Brazilian bass,4
+Slap house,6
+Chicago hard house,4
+Chicago house,12
+Deep house,31
+Disco house,7
+Diva house,25
+Hardbag,2
+Electro house,17
+Big room house,27
+Complextro,2
+Dutch house,1
+Fidget house,4
+Melbourne bounce,6
+Electro swing,25
+French house,28
+Funky house,27
+Future house,25
+Garage house,30
+Ghetto house,25
+Ghettotech,26
+Juke house,2
+Hip house,27
+Italo house,28
+Jazz house,6
+Latin house,23
+Melodic house,6
+Microhouse,26
+Moombahcore,4
+Moombahton,34
+Moombahsoul,7
+New Jersey sound,23
+Outsider house,24
+Progressive house,36
+Soulful house,5
+Tech house,1
+Tribal house,1
+Tropical house,29
+UK hard house,37
+Hard NRG,24
+Pumping house,5
+Hardbass,25
+Scouse house,2
+Post-industrial music,4
+post-industrial,3
+Deconstructed club,27
+Electro-industrial,26
+Dark electro,4
+Aggrotech,5
+Electronic body music,20
+Electronic body music (EBM),6
+Futurepop,1
+New beat,25
+Industrial hip hop,26
+Industrial metal,36
+Cyber metal,6
+Neue Deutsche H‰rte,29
+Industrial rock,27
+Martial industrial,31
+Mid-tempo,7
+Witch house (genre),29
+Intelligent dance music,14
+Intelligent dance music (IDM),6
+Drill 'n' bass,1
+Glitch (music),28
+Neo soul,26
+Nightcore,26
+Noise music,20
+Harsh noise,5
+Harsh noise wall,4
+Japanoise,37
+Noise pop,25
+Power electronics (music),23
+Death industrial,4
+Power noise,24
+Plunderphonics,1
+Sampledelia,3
 Techno,11
-Acid techno,32
-Ambient techno,27
-Birmingham sound,36
-Bleep techno,32
-Detroit techno,9
-Dub techno,33
-Hardtechno,37
-Free tekno,32
-Industrial techno,28
-Minimal techno,28
-Schaffel,36
-Toytown techno,35
-Tecno brega,34
-Acid trance,27
-Balearic trance,32
-Dream trance,28
-Eurotrance,35
-Goa trance,2
-Nitzhonot,27
-Hard trance,30
-Progressive trance,33
-Psychedelic trance,5
-Suomisaundi,34
-Tech trance,32
-Uplifting trance,31
-Vocal trance,28
+Acid techno,1
+Ambient techno,23
+Birmingham sound,5
+Bleep techno,1
+Detroit techno,33
+Dub techno,2
+Hardtechno,6
+Free tekno,1
+Industrial techno,24
+Minimal techno,24
+Schaffel,5
+Toytown techno,4
+Tecno brega,3
+Acid trance,23
+Balearic trance,1
+Dream trance,24
+Eurotrance,4
+Goa trance,36
+Nitzhonot,23
+Hard trance,26
+Progressive trance,2
+Psychedelic trance,17
+Suomisaundi,3
+Tech trance,1
+Uplifting trance,27
+Vocal trance,24
 UK garage,11
-2-step garage,8
-Bassline (music genre),23
-Bassline,8
-Breakstep,34
-Dubstep,19
-Brostep,28
-Neurostep,38
-Post-dubstep,31
-Reggaestep,35
-Riddim (EDM),33
-Riddim,27
-Colour bass,38
-Future garage,30
-Grime music,6
-Grindie,32
-Speed garage,27
-UK funky,23
-Funkstep,33
-Wonky (music),37
-Video game music,31
-Chiptune,24
-Bitpop,30
-Nintendocore,8
-Skweee,32
-American folk revival,38
-Anti-folk,27
-British folk revival,25
+2-step garage,32
+Bassline (music genre),28
+Bassline,32
+Breakstep,3
+Dubstep,20
+Brostep,24
+Neurostep,7
+Post-dubstep,27
+Reggaestep,4
+Riddim (EDM),2
+Riddim,23
+Colour bass,7
+Future garage,26
+Grime music,19
+Grindie,1
+Speed garage,23
+UK funky,28
+Funkstep,2
+Wonky (music),6
+Video game music,27
+Chiptune,29
+Bitpop,26
+Nintendocore,32
+Skweee,1
+American folk revival,7
+Anti-folk,23
+British folk revival,30
 Celtic music,22
-Chalga,8
-Corrido,29
-Creole music,33
-Filk music,36
-Folk noir,38
-Folk rock,6
-Celtic rock,26
-Freak folk,33
-Indie folk,32
-Industrial folk music,36
-Mariachi,23
-Ranchera,29
-Neofolk,29
-New Weird America,28
-Progressive folk music,37
-Protest song,24
-Psychedelic folk,29
-Singer-songwriter,33
-Nueva canci√≥n,34
-Skiffle,31
-Sung poetry,37
-Tarantella,35
-Pizzica,38
-Traditional blues verses,38
-Beatboxing,36
-Boom bap,32
-Bounce music,26
-British hip hop,30
-Road rap,35
-Chopper (rap),25
-Chopper,35
-Classic hip hop,34
-Comedy hip hop,31
-East Coast hip hop,10
-Freestyle rap,35
-G-funk,3
-Hardcore hip hop,25
-Dirty rap,29
-Gangsta rap,9
-Horrorcore,28
-Memphis rap,29
-Hip hop soul,34
-Hyphy,27
-Jerkin',33
-Jazz rap,29
-Latin hip hop,25
-Chicano rap,31
-Nerdcore,28
-Chap hop,34
-New jack swing,29
-Political hip hop,30
-Conscious hip hop,28
-Pop rap,28
-Progressive rap,27
-Punk rap,33
-Rap opera,33
-Rap rock,31
-Rap metal,24
-Rapcore,33
-Christian hip hop,25
-Jewish hip hop,35
-Southern hip hop,7
-Brooklyn drill,27
-Tread rap,35
-Tread,37
-Turntablism,10
-Underground hip hop,23
-West Coast hip hop,2
-Afro-Cuban jazz,27
-Alt-jazz,38
-Avant-garde jazz,26
-Bebop,3
-Big band,29
-Boogie-woogie,27
-Bossa nova,31
-Brazilian Jazz,38
-British dance band,34
-Cape jazz,35
-Chamber jazz,28
-Continental jazz,36
-Cool jazz,30
-Crossover jazz,35
-Dixieland,4
-Ethno jazz,31
-European free jazz,35
-Free funk,33
-Free improvisation,25
-Free jazz,26
-Gypsy jazz,32
-Hard bop,29
-Jazz blues,37
-Jazz-funk,27
-Jazz fusion,7
-Jazz noir,38
-Jazz rock,33
-Kansas City jazz,27
-Latin jazz,4
-M-Base,35
-M-base,38
-Mainstream jazz,37
-Modal jazz,33
-Neo-bop jazz,35
-Neo-swing,37
-Nu jazz,30
-Orchestral jazz,36
-Post-bop,27
-Progressive jazz,37
-Punk jazz,32
-Samba-jazz,35
-Shibuya-kei,31
-Ska jazz,35
-Smooth jazz,24
-Soul jazz,29
-Straight-ahead jazz,32
-Stride jazz,36
-Swing music,15
-Trad jazz,32
-Third stream,34
-Vocal jazz,33
-West Coast jazz,27
-Adult contemporary,27
-Adult hits,34
-Ambient pop,36
-Arabic pop music,31
-Art pop,23
-Avant-pop,28
-Baroque pop,32
-Beach music,28
-Bedroom pop,36
-Brill Building (genre),27
-Brill building,38
-Britpop,14
-Bubblegum pop,34
-C-pop,3
-Cantopop,4
-Hokkien pop,30
-Mandopop,1
-Canci√≥n,36
-Canzone,35
-Chamber pop,34
-Chanson,27
-Christian pop,33
-Classic hits,28
-Classical crossover,38
-Contemporary hit radio,25
-Cringe pop,36
-Dark pop,38
+Chalga,32
+Corrido,25
+Creole music,2
+Filk music,5
+Folk noir,7
+Folk rock,19
+Celtic rock,31
+Freak folk,2
+Indie folk,1
+Industrial folk music,5
+Mariachi,28
+Ranchera,25
+Neofolk,25
+New Weird America,24
+Progressive folk music,6
+Protest song,29
+Psychedelic folk,25
+Singer-songwriter,2
+Nueva canciÛn,3
+Skiffle,27
+Sung poetry,6
+Tarantella,4
+Pizzica,7
+Traditional blues verses,7
+Beatboxing,5
+Boom bap,1
+Bounce music,31
+British hip hop,26
+Road rap,4
+Chopper (rap),30
+Chopper,4
+Classic hip hop,3
+Comedy hip hop,27
+East Coast hip hop,34
+Freestyle rap,4
+G-funk,37
+Hardcore hip hop,30
+Dirty rap,25
+Gangsta rap,33
+Horrorcore,24
+Memphis rap,25
+Hip hop soul,3
+Hyphy,23
+Jerkin',2
+Jazz rap,25
+Latin hip hop,30
+Chicano rap,27
+Nerdcore,24
+Chap hop,3
+New jack swing,25
+Political hip hop,26
+Conscious hip hop,24
+Pop rap,24
+Progressive rap,23
+Punk rap,2
+Rap opera,2
+Rap rock,27
+Rap metal,29
+Rapcore,2
+Christian hip hop,30
+Jewish hip hop,4
+Southern hip hop,18
+Brooklyn drill,23
+Tread rap,4
+Tread,6
+Turntablism,34
+Underground hip hop,28
+West Coast hip hop,36
+Afro-Cuban jazz,23
+Alt-jazz,7
+Avant-garde jazz,31
+Bebop,37
+Big band,25
+Boogie-woogie,23
+Bossa nova,27
+Brazilian Jazz,7
+British dance band,3
+Cape jazz,4
+Chamber jazz,24
+Continental jazz,5
+Cool jazz,26
+Crossover jazz,4
+Dixieland,38
+Ethno jazz,27
+European free jazz,4
+Free funk,2
+Free improvisation,30
+Free jazz,31
+Gypsy jazz,1
+Hard bop,25
+Jazz blues,6
+Jazz-funk,23
+Jazz fusion,18
+Jazz noir,7
+Jazz rock,2
+Kansas City jazz,23
+Latin jazz,38
+M-Base,4
+M-base,7
+Mainstream jazz,6
+Modal jazz,2
+Neo-bop jazz,4
+Neo-swing,6
+Nu jazz,26
+Orchestral jazz,5
+Post-bop,23
+Progressive jazz,6
+Punk jazz,1
+Samba-jazz,4
+Shibuya-kei,27
+Ska jazz,4
+Smooth jazz,29
+Soul jazz,25
+Straight-ahead jazz,1
+Stride jazz,5
+Swing music,12
+Trad jazz,1
+Third stream,3
+Vocal jazz,2
+West Coast jazz,23
+Adult contemporary,23
+Adult hits,3
+Ambient pop,5
+Arabic pop music,27
+Art pop,28
+Avant-pop,24
+Baroque pop,1
+Beach music,24
+Bedroom pop,5
+Brill Building (genre),23
+Brill building,7
+Britpop,10
+Bubblegum pop,3
+C-pop,37
+Cantopop,38
+Hokkien pop,26
+Mandopop,35
+CanciÛn,5
+Canzone,4
+Chamber pop,3
+Chanson,23
+Christian pop,2
+Classic hits,24
+Classical crossover,7
+Contemporary hit radio,30
+Cringe pop,5
+Dark pop,7
 Europop,22
-Austropop,36
-French pop music,32
-La√Øk√≥,35
-Nederpop,32
-Neomelodic music,38
-Nordic popular music,32
-Russian pop,33
-Fado,34
-Folk pop,36
-Indie pop,23
-Twee pop,34
-Indian pop,29
-Iranian pop,38
-J-pop,12
-Anime song,33
-Jangle pop,28
-Jazz pop,37
-K-pop,17
-Korean hip hop,32
-Korean rock,36
-T'ong guitar,37
-Trot (music),32
-Latin ballad,32
-Latin pop,7
-Mexican pop music,8
-New Pop,29
-New Romantic,24
-Oldies,27
-Rhythmic oldies,33
-Operatic pop,33
-Original Pilipino Music,33
-OPM,33
-Pinoy pop,27
-Pop rock,8
-Pop punk,34
-Emo pop,34
-Neon pop,37
-Power pop,25
-Soft rock,4
-Surf pop,38
-Yacht rock,3
-Pop soul,38
-Progressive pop,30
-Psychedelic pop,33
-Rebetiko,27
-Rhythmic adult contemporary,32
-Rhythmic contemporary,29
-Schlager music,26
-Space age pop,31
-Sunshine pop,28
-Swamp pop,29
-Teen pop,30
-Traditional pop music,35
-Turbo-folk,4
-Turkish pop music,35
-Urban adult contemporary,32
-Urban contemporary music,2
-Vispop,32
-Wonky pop,31
-Y√©-y√©,34
-Alternative R&B,34
-Freestyle music,10
-Go-go,36
-Deep funk,32
-Minneapolis Sound,38
-Psychedelic funk,23
-Gospel music,19
-Southern gospel,32
-Urban contemporary gospel,31
-Blue-eyed soul,27
-Brown-eyed soul,31
-Cinematic soul,35
-Classic soul,36
-Northern soul,25
-Progressive soul,31
-Psychedelic soul,27
-Quiet storm,34
-Southern soul,25
-Active rock,33
-Adult album alternative,31
-Adult-oriented rock,35
-Afro rock,36
-Album oriented rock,38
-Post-Britpop,32
-Dream pop,31
-Shoegaze,31
-Blackgaze,27
-Grunge,8
-Post-grunge,28
-Soft grunge,35
-Indie rock,17
-Dunedin sound,28
-Kindie rock,33
-Math rock,24
-Midwest emo,28
-Post-punk revival,30
-Slacker rock,36
-Sadcore,35
-Slowcore,29
-American rock,2
-Anatolian rock,29
-Arabic rock,38
-Arena rock,25
-Beat music,7
+Austropop,5
+French pop music,1
+LaÔkÛ,4
+Nederpop,1
+Neomelodic music,7
+Nordic popular music,1
+Russian pop,2
+Fado,3
+Folk pop,5
+Indie pop,28
+Twee pop,3
+Indian pop,25
+Iranian pop,7
+J-pop,8
+Anime song,2
+Jangle pop,24
+Jazz pop,6
+K-pop,15
+Korean hip hop,1
+Korean rock,5
+T'ong guitar,6
+Trot (music),1
+Latin ballad,1
+Latin pop,18
+Mexican pop music,32
+New Pop,25
+New Romantic,29
+Oldies,23
+Rhythmic oldies,2
+Operatic pop,2
+Original Pilipino Music,2
+OPM,2
+Pinoy pop,23
+Pop rock,32
+Pop punk,3
+Emo pop,3
+Neon pop,6
+Power pop,30
+Soft rock,38
+Surf pop,7
+Yacht rock,37
+Pop soul,7
+Progressive pop,26
+Psychedelic pop,2
+Rebetiko,23
+Rhythmic adult contemporary,1
+Rhythmic contemporary,25
+Schlager music,31
+Space age pop,27
+Sunshine pop,24
+Swamp pop,25
+Teen pop,26
+Traditional pop music,4
+Turbo-folk,38
+Turkish pop music,4
+Urban adult contemporary,1
+Urban contemporary music,36
+Vispop,1
+Wonky pop,27
+YÈ-yÈ,3
+Alternative R&B,3
+Freestyle music,34
+Go-go,5
+Deep funk,1
+Minneapolis Sound,7
+Psychedelic funk,28
+Gospel music,20
+Southern gospel,1
+Urban contemporary gospel,27
+Blue-eyed soul,23
+Brown-eyed soul,27
+Cinematic soul,4
+Classic soul,5
+Northern soul,30
+Progressive soul,27
+Psychedelic soul,23
+Quiet storm,3
+Southern soul,30
+Active rock,2
+Adult album alternative,27
+Adult-oriented rock,4
+Afro rock,5
+Album oriented rock,7
+Post-Britpop,1
+Dream pop,27
+Shoegaze,27
+Blackgaze,23
+Grunge,32
+Post-grunge,24
+Soft grunge,4
+Indie rock,15
+Dunedin sound,24
+Kindie rock,2
+Math rock,29
+Midwest emo,24
+Post-punk revival,26
+Slacker rock,5
+Sadcore,4
+Slowcore,25
+American rock,36
+Anatolian rock,25
+Arabic rock,7
+Arena rock,30
+Beat music,18
 British Invasion,57
-Freakbeat,31
-Mod (subculture),3
-Nederbeat,34
-Boogie rock,34
-Brazilian rock,5
-Samba rock,29
-British rhythm and blues,8
-British rock music,19
-Chinese rock,32
-Christian rock,26
-Classic alternative,25
-Classic rock,34
-Comedy rock,34
-Dark cabaret,33
-Death 'n' roll,35
-Deathrock,36
-Palm Desert Scene,29
-Desert rock,36
-Emo,25
-Experimental rock,25
-Art rock,31
-Post-punk,5
-Gothic rock,5
-No wave,23
-Noise rock,25
-Post-metal,30
-British folk rock,9
-Medieval folk rock,29
-Funk rock,26
-Garage rock,17
-Proto-punk,27
-Geek rock,34
-Glam rock,3
-Pagan rock,26
-Hard rock,19
-Heartland rock,30
-Indian rock,8
-Iranian rock,32
-Instrumental rock,26
-Japanese rock,24
-Latin rock,5
-Chicano rock,10
-Rock en espa√±ol,23
-Rock music in Mexico,33
-Mainstream rock,33
-Mangue bit,34
-Modern rock,27
-Occult rock,33
-Paisley Underground,25
-Progressive rock,12
-Avant-prog,32
-Rock in Opposition,34
-Canterbury scene,27
-Flamenco rock,35
-Neo-progressive rock,36
-New prog,37
-Post-Progressive,37
-Post-progressive,28
-Progressive rock (radio format),37
-Proto-prog,33
-Symphonic Rock,37
-Zeuhl,35
-Psychedelic rock,15
-Acid rock,25
-Freak scene,36
-Neo-psychedelia,23
-Raga rock,31
-Pub rock (Australia),34
-Pub rock (United Kingdom),1
-Reggae rock,28
+Freakbeat,27
+Mod (subculture),37
+Nederbeat,3
+Boogie rock,3
+Brazilian rock,17
+Samba rock,25
+British rhythm and blues,32
+British rock music,20
+Chinese rock,1
+Christian rock,31
+Classic alternative,30
+Classic rock,3
+Comedy rock,3
+Dark cabaret,2
+Death 'n' roll,4
+Deathrock,5
+Palm Desert Scene,25
+Desert rock,5
+Emo,30
+Experimental rock,30
+Art rock,27
+Post-punk,17
+Gothic rock,17
+No wave,28
+Noise rock,30
+Post-metal,26
+British folk rock,33
+Medieval folk rock,25
+Funk rock,31
+Garage rock,15
+Proto-punk,23
+Geek rock,3
+Glam rock,37
+Pagan rock,31
+Hard rock,20
+Heartland rock,26
+Indian rock,32
+Iranian rock,1
+Instrumental rock,31
+Japanese rock,29
+Latin rock,17
+Chicano rock,34
+Rock en espaÒol,28
+Rock music in Mexico,2
+Mainstream rock,2
+Mangue bit,3
+Modern rock,23
+Occult rock,2
+Paisley Underground,30
+Progressive rock,8
+Avant-prog,1
+Rock in Opposition,3
+Canterbury scene,23
+Flamenco rock,4
+Neo-progressive rock,5
+New prog,6
+Post-Progressive,6
+Post-progressive,24
+Progressive rock (radio format),6
+Proto-prog,2
+Symphonic Rock,6
+Zeuhl,4
+Psychedelic rock,12
+Acid rock,30
+Freak scene,5
+Neo-psychedelia,28
+Raga rock,27
+Pub rock (Australia),3
+Pub rock (United Kingdom),35
+Reggae rock,24
 Rock and roll,57
-Gothabilly,27
-Rock music in France,33
-Rock opera,32
-Roots rock,3
-Southern rock,14
-Stoner rock,25
-Swamp rock,30
-Sufi rock,33
-Surf rock,35
-Tropical rock,34
-Viking rock,34
-Visual kei,29
-Nagoya kei,36
-Wizard rock,33
-World fusion,38
-Alternative metal,23
-Funk metal,31
-Nu metal,8
-Avant-garde metal,29
-Drone metal,31
-Black metal,1
-Depressive suicidal black metal,37
-Blackened death metal,34
-Atmospheric black metal,38
-Melodic black metal,38
-National Socialist black metal,31
-Symphonic black metal,33
-Christian metal,23
-Unblack metal,34
-Death metal,4
-Deathgrind,32
-Melodic death metal,29
-Technical death metal,32
-Doom metal,26
-Death-doom,28
-Stoner-doom,37
+Gothabilly,23
+Rock music in France,2
+Rock opera,1
+Roots rock,37
+Southern rock,10
+Stoner rock,30
+Swamp rock,26
+Sufi rock,2
+Surf rock,4
+Tropical rock,3
+Viking rock,3
+Visual kei,25
+Nagoya kei,5
+Wizard rock,2
+World fusion,7
+Alternative metal,28
+Funk metal,27
+Nu metal,32
+Avant-garde metal,25
+Drone metal,27
+Black metal,35
+Depressive suicidal black metal,6
+Blackened death metal,3
+Atmospheric black metal,7
+Melodic black metal,7
+National Socialist black metal,27
+Symphonic black metal,2
+Christian metal,28
+Unblack metal,3
+Death metal,38
+Deathgrind,1
+Melodic death metal,25
+Technical death metal,1
+Doom metal,31
+Death-doom,24
+Stoner-doom,6
 Extreme metal,62
-Folk metal,4
-Celtic metal,23
-Medieval metal,29
-Pagan metal,27
-Glam metal,31
-Gothic metal,29
-Electronic metal,29
-Kawaii metal,32
-Latin metal,29
-Mathcore,4
-Math metal,35
-Metalcore,4
-Deathcore,27
-Melodic metalcore,27
-Progressive metalcore,27
-Neoclassical metal,30
-New wave of American heavy metal,34
-New wave of British heavy metal,25
-Pirate metal,29
-Pop metal,34
-Power metal,29
-Progressive metal,3
-Djent,32
-Sludge metal,26
-Speed metal,29
-Symphonic metal,25
-Thrash metal,24
-Crossover thrash,25
-Groove metal,29
-Afro-punk,34
-Anarcho punk,38
-Crust punk,29
-D-beat,27
-Art punk,31
-Avant punk,38
-Christian punk,31
-Deathpunk,33
-Electropunk,29
-Cyberpunk,34
-Synth punk,38
-Folk punk,30
-Celtic punk,30
-Gypsy punk,27
-Scottish Gaelic punk,28
-Garage punk (fusion genre),30
-Garage punk,36
-German punk,32
-Glam punk,28
-Gothic punk,37
-Grindcore,8
-Crustgrind,38
-Electrogrind,34
-Goregrind,28
-Noisegrind,36
-Pornogrind,28
-Beatdown hardcore,28
-Christian hardcore,30
-Crabcore,35
-Krishnacore,36
-Melodic hardcore,27
-Positive hardcore,35
-Post-hardcore,2
-Queercore,30
-Taqwacore,27
-Screamo,26
-Powerviolence,32
-Street punk,34
-Horror punk,28
-Latino punk,33
-Nazi punk,33
-Oi!,4
-Easycore,35
-Punkabilly,37
-Punk pathetique,28
-Reggae punk,33
-Riot grrrl,28
-Ska punk,29
-Skate punk,28
-Surf punk (music genre),36
-Surf punk,37
-Trallpunk,35
-African heavy metal,35
-African hip hop,29
+Folk metal,38
+Celtic metal,28
+Medieval metal,25
+Pagan metal,23
+Glam metal,27
+Gothic metal,25
+Electronic metal,25
+Kawaii metal,1
+Latin metal,25
+Mathcore,38
+Math metal,4
+Metalcore,38
+Deathcore,23
+Melodic metalcore,23
+Progressive metalcore,23
+Neoclassical metal,26
+New wave of American heavy metal,3
+New wave of British heavy metal,30
+Pirate metal,25
+Pop metal,3
+Power metal,25
+Progressive metal,37
+Djent,1
+Sludge metal,31
+Speed metal,25
+Symphonic metal,30
+Thrash metal,29
+Crossover thrash,30
+Groove metal,25
+Afro-punk,3
+Anarcho punk,7
+Crust punk,25
+D-beat,23
+Art punk,27
+Avant punk,7
+Christian punk,27
+Deathpunk,2
+Electropunk,25
+Cyberpunk,3
+Synth punk,7
+Folk punk,26
+Celtic punk,26
+Gypsy punk,23
+Scottish Gaelic punk,24
+Garage punk (fusion genre),26
+Garage punk,5
+German punk,1
+Glam punk,24
+Gothic punk,6
+Grindcore,32
+Crustgrind,7
+Electrogrind,3
+Goregrind,24
+Noisegrind,5
+Pornogrind,24
+Beatdown hardcore,24
+Christian hardcore,26
+Crabcore,4
+Krishnacore,5
+Melodic hardcore,23
+Positive hardcore,4
+Post-hardcore,36
+Queercore,26
+Taqwacore,23
+Screamo,31
+Powerviolence,1
+Street punk,3
+Horror punk,24
+Latino punk,2
+Nazi punk,2
+Oi!,38
+Easycore,4
+Punkabilly,6
+Punk pathetique,24
+Reggae punk,2
+Riot grrrl,24
+Ska punk,25
+Skate punk,24
+Surf punk (music genre),5
+Surf punk,6
+Trallpunk,4
+African heavy metal,4
+African hip hop,25
 African popular music,57
-Afro pop,37
-Afrobeat,1
-Apala,32
-Arabesque (Turkish music),27
-Benga music,33
-Bikutsi,35
-Bongo flava,37
-Boomba music,35
-Bubu music,38
-Chaabi,35
-Chaoui music,38
-Chimurenga music,33
-Congolese rumba,26
-Coup√©-D√©cal√©,34
-Fuji music,27
-Genge,33
-Gnawa,35
-Gumbe,35
-Highlife,29
-Hiplife,29
-Igbo highlife,34
-Igbo rap,35
-Isicathamiya,33
-Jit,35
-J√πj√∫ music,32
-Kadongo Kamu,37
-Kizomba,27
-Kwela,35
-Lingala,35
-Makossa,27
-Maloya,34
-Ma'luf,36
-Marabi,33
-Marrabenta,32
-Mbalax,27
-Mbaqanga,33
-Mbube (genre),33
-Morna (music),33
-Music of Egypt,34
-Ndombolo,28
-Palm-wine music,35
-Ra√Ø,24
-Rumba,27
-Sakara music,34
-Sega music,36
-Seggae,37
-Semba,34
-Soukous,2
-Kwassa kwassa,35
-Taarab,35
-Zamrock,36
-Zouglou,35
-Nunatak (band),37
-Shashmaqam,37
-Pashto music,38
-Music of Kazakhstan#Traditional music,38
-Kazakh folk music,38
-Music of Kyrgyzstan#Traditional music,38
-Kyrgyz folk music,38
-Music of Mongolia#Traditional music,38
-Mongolian folk music,38
-Tuvan throat singing,29
-Music of Tajikistan#Tajik folk music,37
-Tajik folk music,37
-Chinese hip hop,33
-Music of China#Folk music,37
-Chinese folk music,36
-Hong Kong English pop,32
-Hong Kong hip hop,36
-Taiwanese hip hop,34
-Taiwanese pop,33
-Taiwanese rock,37
-Enka,32
-Japanese hip hop,33
-Japanese jazz,34
-Kay≈çkyoku,34
-Korean folk music,36
-Asian Underground,27
-Baul,36
-Bhangra (music),29
-Bhawaiya,38
-Dohori,38
-Filmi,29
-Carnatic music,32
-Hindustani Classical Music,37
-Hindustani classical,37
-Indian jazz,38
-Kuthu,38
-Lavani,37
-Morlam,37
-Raga,31
-Ragini,38
-Music of Sri Lanka,36
-Sri Lankan,37
-Baila,35
-Sri Lankan hip hop,32
-Gamelan,28
-Malaysian hip hop,35
-Malaysian pop,36
-Malaysian rock,36
-Dangdut,32
-Indo pop,34
-Sundanese pop,37
-Keroncong,38
-Luk thung,34
-Luk krung,37
-Thai pop music,28
-String (Thai pop),36
-Thai string pop,38
-Original Pilipino,38
-Pinoy rock,25
-L-pop,38
-Mor lam,34
-V-pop,28
-Arabic music,21
-Fann at-Tanbura,37
-Fijiri,35
-Khaliji (music),34
-Liwa (music),33
-Music of Israel,33
-Persian traditional music,34
-Sawt (music),34
-Music of Turkey,2
-Turkish folk music,32
-Gypsy music,35
-Australian folk music,34
-Indigenous music of Australia,36
-Music of Hawaii,29
-Music of New Zealand,33
-MƒÅori music,34
-Kapa haka,37
-Music of Polynesia,35
-Music of Samoa,37
-Eurovision Song Contest,20
-Balkan music,8
-Balkan brass,34
-Balkan folk music,36
-Music of Albania,31
-Music of Bosnia and Herzegovina,33
-Music of Bulgaria,34
-Music of Cyprus,32
-Music of Greece,19
-Olympic Hymn,37
-Music of Kosovo,27
-Music of Montenegro,36
-Music of North Macedonia,27
-Music of Romania,29
-Romani music,10
-Lithuanian folk music,38
-Music of Estonia,37
-Music of Latvia,38
-Music of Austria,32
-Viennese waltz,37
-Yodeling,25
-Music of Croatia,27
-Music of the Czech Republic,38
-Polka,31
-Music of Germany,15
-Music of Hungary,27
-Music of Liechtenstein,37
-Music of Poland,27
-Music of Serbia,27
-Music of Slovakia,37
-Music of Slovenia,34
-Music of Switzerland,34
-Nordic folk music,30
-Music of Denmark,32
-Danish traditional music,37
-Music of Finland,26
-√Öl√§nningens s√•ng,38
-Rautalanka,33
-Music of Iceland,36
-Music of Norway,29
-Music of Sweden,28
-Music of the Faroe Islands,36
-Klezmer,24
-Music of Belarus,37
-Music of Moldova,32
-Music of Russia,32
-Music of Buryatia,37
-Otyken,38
-Russian folk music,37
-Music of Ukraine,34
-Music of Yugoslavia,27
-Music of Andorra,36
-Music of Belgium,28
-Music of france,38
-Music of Ireland,23
-Music of italy,38
-Music of Luxembourg,36
-Music of Malta,37
-Music of Monaco,36
-Music of the Netherlands,26
-Music of Portugal,25
-Music of Spain,26
-Music of the United Kingdom,10
-Music of Scotland,26
-Music of Wales,32
-Ax√© music,38
-Brega (music),33
-Tecnobrega,37
-Choro,34
-Forr√≥,28
-Frevo,36
-Lambada,32
-Maracatu,35
-M√∫sica popular brasileira,29
-Tropicalia,36
-M√∫sica sertaneja,34
-Samba,2
-Pagode,33
-Baithak Gana,37
-Bouyon music,34
-Cadence-lypso,28
-Calypso music,7
-Cha-cha-ch√° (music),32
-Chutney music,28
-Chutney soca,33
-Chutney parang,35
-Compas,34
-Dancehall,4
-Mambo (music),1
-Mento,32
-Merengue music,25
-M√©ringue,28
-Mozambique (music),35
-Pichakaree,37
-Punta,34
-Punta rock,33
-Rake & Scrape,38
-Rasin,35
-Reggae,6
-Lovers rock,37
-Ragga,27
-Reggae fusion,25
-Reggaeton,2
-Roots reggae,28
-Rocksteady,30
-Rhumba,30
-Salsa music,18
-Ska,24
-Two-tone (music genre),27
-Two-tone,35
-Soca music,22
-Power soca,38
-Son cubano,25
-Songo music,32
-Timba,30
-Twoubadou,32
-Zouk (musical movement),3
-Zouk,30
-Boogaloo,28
-Bullerengue,36
-Flamenco,4
-Cantes de ida y vuelta,36
-Fandangos,36
-Sole√°,34
-Alegr√≠as,36
-Buler√≠as,35
-Peteneras,36
-Tango (flamenco),35
-Ton√°,37
-Martinetes,37
-Ton√°s,36
-Grupera,28
-Hispanic rhythmic,33
-Latin Christian music,37
-Latin alternative,27
-Rock en Espa√±ol,35
-Regional Mexican,30
-Banda (music),36
-Norte√±o (music),23
-Tango music,27
-Tropical music,30
-Bachata (music),30
-Bolero,26
-Criolla,37
-Cumbia,27
-:es:Chicha (m√∫sica),38
-Chicha,38
-Porro,34
-Guajira (music),28
-M√∫sica popular (Colombia),37
-Cuban rumba,2
-Salsa rom√°ntica,35
-Son (music),29
-Tropipop,28
-Urbano music,25
-Vallenato,34
-Canadian folk music,38
-Indigenous music of North America,31
-Inuit music,32
-Music of Alaska,35
-Indigenous music of Canada,35
-Music of Greenland,34
-Ragtime,24
-Cakewalk,36
-Classic rag,37
-Folk ragtime,37
-Honky-tonk piano,38
-Novelty piano,35
-Stomp (jazz),37
-Stomp,37
-Stride (music),27
-Stride piano,36
-Buddhist music,36
-Christian music,19
-Contemporary Christian music,4
-Contemporary worship music,34
-Christian Rock,37
-Easy Listening,37
-Country Gospel,37
-Church music,31
-Worship,38
-Hymn,29
-Jesus Music,38
-Liturgical music,33
-Spiritual (music),32
-Spirituals,28
-Gregorian chant,2
-Islamic music,30
-Modern pagan music,27
-Shamanic music,37
-American patriotic music,37
-Christmas music,29
-Fingerstyle guitar,30
-Huayno,37
-Pastorale,36
-Son mexicano,36
-M√∫sica criolla,37
-Ballroom dance,8
-pasodoble,32
-cha-cha-cha (music),34
-cha cha cha,37
-Children's music,36
-Slow dance,38
-Drug use in music,35
-Incidental music,34
-film,30
-Play (theatre),35
-play,36
-Musical theatre,29
-musicals,37
-filmi,34
-video game music,4
-music hall,24
-Show tune,35
-showtunes,37
-Bedroom production,38
-Multi-instrumentalist,34
-A cappella,28
-Bassist,32
-Drummer,38
-Percussion,35
-Guitarist,35
-Pianist,37
-Keyboardist,37
-One-man band,37
-Internet meme,27
-Martial music,27
-military music,37
-March (music),29
-marches,32
-national anthem,2
-War song,32
-traditional music,9
-oral tradition,35
-Sea shanty,26
-sea shanties,27
-work song,28
-nursery rhyme,38
-Arabesque music,34
-indigenous music,36
-Virtuoso,37
-Genealogy of musical genres,37
-List of country genres,11
-List of industrial music genres,28
-List of trance genres,6
-Reggae genres,34
-Heavy metal genres,5
-Punk rock subgenres,7
-List of hardcore punk subgenres,18
-List of microgenres,62
-List of music styles that incorporate the accordion,19
-Styles of pop music,22
-Simon Frith,29
-"Frith, Simon",38
-Category:Popular music,19
-*,19
-Category:Lists of music genres,8
+Afro pop,6
+Afrobeat,35
+Apala,1
+Arabesque (Turkish music),23
+Benga music,2
+Bikutsi,4
+Bongo flava,6
+Boomba music,4
+Bubu music,7
+Chaabi,4
+Chaoui music,7
+Chimurenga music,2
+Congolese rumba,31
+CoupÈ-DÈcalÈ,3
+Fuji music,23
+Genge,2
+Gnawa,4
+Gumbe,4
+Highlife,25
+Hiplife,25
+Igbo highlife,3
+Igbo rap,4
+Isicathamiya,2
+Jit,4
+J˘j˙ music,1
+Kadongo Kamu,6
+Kizomba,23
+Kwela,4
+Lingala,4
+Makossa,23
+Maloya,3
+Ma'luf,5
+Marabi,2
+Marrabenta,1
+Mbalax,23
+Mbaqanga,2
+Mbube (genre),2
+Morna (music),2
+Music of Egypt,3
+Ndombolo,24
+Palm-wine music,4
+RaÔ,29
+Rumba,23
+Sakara music,3
+Sega music,5
+Seggae,6
+Semba,3
+Soukous,36
+Kwassa kwassa,4
+Taarab,4
+Zamrock,5
+Zouglou,4
+Nunatak (band),6
+Shashmaqam,6
+Pashto music,7
+Music of Kazakhstan#Traditional music,7
+Kazakh folk music,7
+Music of Kyrgyzstan#Traditional music,7
+Kyrgyz folk music,7
+Music of Mongolia#Traditional music,7
+Mongolian folk music,7
+Tuvan throat singing,27
+Music of Tajikistan#Tajik folk music,6
+Tajik folk music,6
+Chinese hip hop,2
+Music of China#Folk music,6
+Chinese folk music,5
+Hong Kong English pop,1
+Hong Kong hip hop,5
+Taiwanese hip hop,3
+Taiwanese pop,2
+Taiwanese rock,6
+Enka,1
+Japanese hip hop,2
+Japanese jazz,3
